@@ -17,7 +17,7 @@ Adaptive Header Placement: Adjusts image positioning based on gestures, showcasi
 2. Repository Clone:<br>
    git clone <repo-link>
 <hr>
-<b>Note for Users</b>
+<b>Note for Users</b><br>
 For systems using an external webcam, remember to adjust the VideoCapture parameter in the code, changing the value from 0 to 1 to select the correct camera input.
 <hr>
 <b>Running the Project</b>
