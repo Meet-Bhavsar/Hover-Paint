@@ -12,9 +12,9 @@ Dynamic Image Rendering: Implements gesture-based image switching, simulating a 
 Adaptive Header Placement: Adjusts image positioning based on gestures, showcasing a customizable visual framework.
 
 <b>Technical Setup</b>
-1. Environment Setup: Ensure you have OpenCV and MediaPipe installed:
+1. Environment Setup: Ensure you have OpenCV and MediaPipe installed:<br>
    pip install opencv-python mediapipe
-2. Repository Clone:
+2. Repository Clone:<br>
    git clone <repo-link>
 <b>Note for Users</b>
 For systems using an external webcam, remember to adjust the VideoCapture parameter in the code, changing the value from 0 to 1 to select the correct camera input.
