@@ -16,6 +16,7 @@ Adaptive Header Placement: Adjusts image positioning based on gestures, showcasi
    pip install opencv-python mediapipe
 2. Repository Clone:<br>
    git clone <repo-link>
+   <br><hr>
 <b>Note for Users</b>
 For systems using an external webcam, remember to adjust the VideoCapture parameter in the code, changing the value from 0 to 1 to select the correct camera input.
 <hr>
